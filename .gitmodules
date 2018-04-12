@@ -1,0 +1,6 @@
+[submodule "AED"]
+	path = AED
+	url = git@github.com:lucasbretana/AED.git
+[submodule "POO_adm_software"]
+	path = POO_adm_software
+	url = https://github.com/lucasbretana/2016.1-POO_adm_software
